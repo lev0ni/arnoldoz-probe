@@ -1,0 +1,5 @@
+
+:root { --bg:#fff; --text:#1C1C1E; --accent:#007AFF; --border:#E5E5EA; }
+html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:Inter,-apple-system,system-ui,'Segoe UI',Roboto,Arial,sans-serif}
+.wrapper{max-width:420px;margin:0 auto;padding:12px}
+svg [id^="btn-"], svg g[id^="btn-"]{cursor:pointer}
