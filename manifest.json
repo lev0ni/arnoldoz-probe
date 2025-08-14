@@ -1,0 +1,9 @@
+{
+  "name": "ArnoldOz Mini App",
+  "short_name": "ArnoldOz",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a84ff",
+  "icons": []
+}

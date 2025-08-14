@@ -1,0 +1,15 @@
+file,out_file,parsed_ok,issues,actions,width,height,viewBox,num_paths,num_groups,size_before,size_after
+tmp_vercel_unzip/VERCEL/chat-add-files-modal.svg,assets/icons/chat-add-files-modal.svg,True,,"removed_comments,stripped_editor_attrs,removed_metadata",85.000458mm,27.136644mm,0 0 85.000458 27.136644,77,10,601500,572795
+tmp_vercel_unzip/VERCEL/chat-add-image-modal.svg,assets/icons/chat-add-image-modal.svg,True,,"removed_comments,stripped_editor_attrs,removed_metadata",60.199905mm,140.2mm,0 0 60.199905 140.2,76,7,589350,561664
+tmp_vercel_unzip/VERCEL/chat-question-generators-model-modal.svg,assets/icons/chat-question-generators-model-modal.svg,True,,"removed_comments,stripped_editor_attrs,removed_metadata",59.998112mm,142.01474mm,0 0 59.998112 142.01474,76,5,581859,554987
+tmp_vercel_unzip/VERCEL/chat-screen.svg,assets/icons/chat-screen.svg,True,,"removed_comments,stripped_editor_attrs,removed_metadata",90.000443mm,160.00024mm,0 0 90.000443 160.00024,103,17,637485,607238
+/mnt/data/tmp_vercel_unzip/VERCEL/chat-social-media-modal.svg,,False,"parse_error:unbound prefix: line 7910, column 175",,,,,0,0,546995,
+tmp_vercel_unzip/VERCEL/collcenter-entity-settings-modal.svg,assets/icons/collcenter-entity-settings-modal.svg,True,,"removed_comments,stripped_editor_attrs,removed_metadata",85.000458mm,139.87131mm,0 0 85.000458 139.87131,73,8,526565,503277
+tmp_vercel_unzip/VERCEL/collcenter-global-settings-modal.svg,assets/icons/collcenter-global-settings-modal.svg,True,,"removed_comments,stripped_editor_attrs,removed_metadata",85.000458mm,139.87131mm,0 0 85.000458 139.87131,66,4,504437,482506
+/mnt/data/tmp_vercel_unzip/VERCEL/collcenter-modal.svg,,False,"parse_error:unbound prefix: line 7210, column 8",,,,,0,0,512715,
+tmp_vercel_unzip/VERCEL/crm-calendar-modal.svg,assets/icons/crm-calendar-modal.svg,True,,"removed_comments,stripped_editor_attrs,removed_metadata",85.000458mm,139.87131mm,0 0 85.000458 139.87131,63,5,447851,429123
+tmp_vercel_unzip/VERCEL/crm-notes-modal.svg,assets/icons/crm-notes-modal.svg,True,,"removed_comments,stripped_editor_attrs,removed_metadata",85.000458mm,139.87131mm,0 0 85.000458 139.87131,59,8,410726,393988
+tmp_vercel_unzip/VERCEL/crm-pipeline-modal.svg,assets/icons/crm-pipeline-modal.svg,True,,"removed_comments,stripped_editor_attrs,removed_metadata",85.030769mm,140.03065mm,0 0 85.030769 140.03065,49,4,367248,352700
+/mnt/data/tmp_vercel_unzip/VERCEL/crm-user-card.svg,,False,"parse_error:unbound prefix: line 94528, column 4",,,,,0,0,6701912,
+/mnt/data/tmp_vercel_unzip/VERCEL/crm-users-table.svg,,False,"parse_error:unbound prefix: line 3249, column 7",,,,,0,0,231267,
+tmp_vercel_unzip/VERCEL/main-screen.svg,assets/icons/main-screen.svg,True,,"removed_comments,stripped_editor_attrs,removed_metadata,removed_metadata",90.034088mm,160.03412mm,0 0 90.034088 160.03412,70,18,240407,235035
