@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="85.2mm" height="140.2mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8511.47 14005.96"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#00AFEF;stroke-width:8.46;stroke-miterlimit:22.9256}
+    .str4 {stroke:#606062;stroke-width:16.91;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E6E7E8;stroke-width:19.98;stroke-miterlimit:22.9256}
+    .str3 {stroke:#00AFEF;stroke-width:67.66;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .str2 {stroke:#00AFEF;stroke-width:84.59;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil2 {fill:none}
+    .fil0 {fill:#373435}
+    .fil3 {fill:#00AFEF}
+    .fil1 {fill:#00AFEF;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="crm-reminder-modal">
+   <rect class="fil0 str0" x="9.98" y="9.98" width="8491.49" height="13985.98" rx="429.83" ry="589.52"/>
+   <path id="btn-close" class="fil1 str1" d="M8118.49 441.93l129.13 -129.06c16.21,-16.21 16.21,-42.37 0,-58.58 -16.21,-16.21 -42.37,-16.21 -58.58,0l-129.13 129.06 -129.09 -129.09c-16.21,-16.21 -42.37,-16.21 -58.58,0 -16.21,16.21 -16.21,42.37 0,58.58l129.13 129.06 -129.13 129.06c-16.21,16.21 -16.21,42.37 0,58.58 16.24,16.21 42.5,16.21 58.58,0l129.13 -129.06 129.12 129.06c16.21,16.21 42.37,16.21 58.58,0 16.08,-16.21 16.08,-42.37 -0.16,-58.61l-129 -129z"/>
+   <g id="btn-back">
+    <path class="fil2 str2" d="M284.98 375.29l432.89 0c73.57,0 133.2,59.64 133.2,133.21l0 0c0,73.56 -59.63,133.2 -133.2,133.2l-166.49 0"/>
+    <path class="fil2 str2" d="M384.88 242.1l-133.2 133.2 133.2 133.21"/>
+   </g>
+   <image id="IMG_20250810_211357-jpg" x="273" y="1532.15" width="7965.47" height="10502.61" xlink:href="/img/crm-calendar_Images\crm-calendar_ImgID1.png"/>
+   <g id="btn-add">
+    <path class="fil2 str3" d="M4259.2 376.43l0 130.94"/>
+    <path class="fil2 str3" d="M4324.68 441.9l-130.94 0"/>
+    <path class="fil2 str3" d="M4549.07 441.9l0 -179.82c0,-66.2 -53.67,-119.88 -119.88,-119.88l-349.81 0c-66.2,0 -119.87,53.68 -119.87,119.88l0 359.64c0,66.2 53.67,119.88 119.87,119.88l174.91 0"/>
+    <path class="fil3 str3" d="M4547.09 569.07l-63.97 -65.03c-6.48,-6.59 -17,-6.59 -23.49,0l-123.03 125.07c-3.57,3.63 -5.31,8.69 -4.78,13.79l7.03 65.35c0.43,3.94 3.49,7.04 7.36,7.47l64.29 7.15c5,0.56 9.99,-1.23 13.55,-4.85l123.03 -125.07c6.49,-6.6 6.49,-17.29 0,-23.89z"/>
+   </g>
+   <rect id="calendar-slot" class="fil2 str4" x="259.74" y="1479.65" width="7991.99" height="11175.87" rx="199.8" ry="199.8"/>
+  </g>
+ </g>
+</svg>
