@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="85.2mm" height="140.2mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8511.47 14005.96"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#00AFEF;stroke-width:8.46;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E6E7E8;stroke-width:19.98;stroke-miterlimit:22.9256}
+    .str2 {stroke:#00AFEF;stroke-width:84.59;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil2 {fill:none}
+    .fil0 {fill:#373435}
+    .fil1 {fill:#00AFEF;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="----_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="collcenter-global-settings-modal">
+   <rect class="fil0 str0" x="9.98" y="9.98" width="8491.49" height="13985.98" rx="429.83" ry="589.52"/>
+   <path id="btn-close" class="fil1 str1" d="M8118.49 441.93l129.13 -129.06c16.21,-16.21 16.21,-42.37 0,-58.58 -16.21,-16.21 -42.37,-16.21 -58.58,0l-129.13 129.06 -129.09 -129.09c-16.21,-16.21 -42.37,-16.21 -58.58,0 -16.21,16.21 -16.21,42.37 0,58.58l129.13 129.06 -129.13 129.06c-16.21,16.21 -16.21,42.37 0,58.58 16.24,16.21 42.5,16.21 58.58,0l129.13 -129.06 129.12 129.06c16.21,16.21 42.37,16.21 58.58,0 16.08,-16.21 16.08,-42.37 -0.16,-58.61l-129 -129z"/>
+   <g id="btn-back">
+    <path class="fil2 str2" d="M284.98 375.29l432.89 0c73.57,0 133.2,59.64 133.2,133.21l0 0c0,73.56 -59.63,133.2 -133.2,133.2l-166.49 0"/>
+    <path class="fil2 str2" d="M384.88 242.1l-133.2 133.2 133.2 133.21"/>
+   </g>
+  </g>
+ </g>
+</svg>

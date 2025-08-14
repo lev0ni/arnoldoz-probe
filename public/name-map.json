@@ -1,0 +1,15 @@
+{
+  "main-scrern": "main-screen",
+  "callcenter-modal": "collcenter-modal",
+  "collcenter-entity-settings": "collcenter-entity-settings",
+  "collcenter-global-settings": "collcenter-global-settings",
+  "crm-modal": "crm-notes",
+  "crm-card-modal": "crm-card-modal",
+  "crm-notes-modal": "crm-notes-modal",
+  "crm-reminder-modal": "crm-reminder-modal",
+  "autoresponder-modal": "autoresponder-modal",
+  "btn-chat": "chat",
+  "socials-modal": "socials-modal",
+  "question-generators-modal": "question-generators-modal",
+  "add-modal": "add-modal"
+}
